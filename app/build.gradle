@@ -35,4 +35,15 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    // Material UI
+    implementation 'com.google.android.material:material:1.3.0'
+
+    // Firebase dependencies
+    implementation platform('com.google.firebase:firebase-bom:27.1.0')     // Firebase BoM
+    implementation 'com.google.firebase:firebase-analytics'     // Firebase SDK for Google Analytics
+    implementation 'com.google.firebase:firebase-auth'    // Firebase Authentication library
+    implementation 'com.google.firebase:firebase-firestore'     //Firestore library
+    implementation 'com.google.firebase:firebase-database:20.0.0'   //RealtimeDB
+    implementation 'androidx.browser:browser:1.3.0'
 }

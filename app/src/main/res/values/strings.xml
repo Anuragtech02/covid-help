@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CovidHelp</string>
+    <string name="phone_number">Phone Number</string>
 </resources>

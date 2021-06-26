@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary">#F6F6F6</color>
+    <color name="borderGrey">#9B9B9B</color>
+    <color name="lightGrey">#C8C8C8</color>
+    <color name="primaryDark">#DFDFDF</color>
+    <color name="accent">#171717</color>
+    <color name="accentFaded">#3B3B3B</color>
+    <color name="clrError">#FF2C2C</color>
+    <color name="clrAlert">#F8D523</color>
+    <color name="clrSuccess">#36A90C</color>
+    <color name="blobColor">#B3D8FC</color>
 </resources>

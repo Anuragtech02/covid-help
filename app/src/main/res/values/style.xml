@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+
+    <style name="progressBarWhite" parent="@style/Theme.AppCompat">
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="Widget.AppTheme.MaterialButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/btn_bg_color</item>
+        <item name="android:textColor">@color/btn_txt_color</item>
+    </style>
+</resources>
