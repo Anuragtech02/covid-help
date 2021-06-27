@@ -27,11 +27,12 @@ The Covid-19 pandemic wreaked havoc on hospital management, resulting in miscomm
 - Firebase
 - Android 
 
-## Presentation Link
+# Video Presentation
+[Watch](https://youtu.be/BAHRW-_lOsg)
+
+## Slides Presentation Link
 
 [Presentation](https://docs.google.com/presentation/d/1lsaCR8ER5tjTsj-sqpbkIe3Jp4-wp0RGdBHr13HoZ9c/edit?usp=sharing)
-
-## Demo Video Link
 
 ## Covid-Help Apk
 
