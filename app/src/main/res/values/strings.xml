@@ -3,4 +3,12 @@
     <string name="phone_number">Phone Number</string>
     <string name="submit">Submit</string>
     <string name="otp">OTP</string>
+    <string name="add_hospital_txt">Can't find hospital? Click to add new</string>
+    <string name="hospital">Hospital</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="i_am_a">I am a</string>
+    <string name="name">Name</string>
+    <string name="registration">Registration</string>
+    <string name="new_hospital">New Hospital</string>
+    <string name="new_pin">New Pin</string>
 </resources>

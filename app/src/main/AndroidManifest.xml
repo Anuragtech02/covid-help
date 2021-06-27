@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CovidHelp">
-        <activity android:name=".OTPActivity"></activity>
+        <activity android:name=".Register"></activity>
+        <activity android:name=".OTPActivity" />
         <activity android:name=".Login" />
         <activity android:name=".Dashboard" />
         <activity android:name=".MainActivity">
@@ -19,6 +20,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
