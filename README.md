@@ -36,11 +36,13 @@ The Covid-19 pandemic wreaked havoc on hospital management, resulting in miscomm
 ## Covid-Help Apk
 
 [Covid-Help](https://drive.google.com/file/d/1KqEQFNVgWm9wJwEXiL16GDsoYvhs5VIs/view?usp=sharing)
-    For Testing=> `Phone number:8770579954 OTP: 123456`
+#### For Testing
+`Phone number:8770579954 OTP: 123456`
 
 [Covid-Help Family](https://drive.google.com/file/d/1s9J6RM7KxPjEfTzj8Ucqn_CUsiBZ2lQm/view?usp=sharing)
-     For Testing=>`Test Email: akshat@gmail.com  pass: akshat123`
+#### For Testing
+`Email: akshat@gmail.com  Password: akshat123`
 
 ### Web Application
-[Visit](https://anuragtech02.github.io/covid-help-admin)\
+[Visit](https://anuragtech02.github.io/covid-help-admin)
 [Repo](https://github.com/Anuragtech02/covid-help-admin)
