@@ -11,4 +11,8 @@
     <string name="registration">Registration</string>
     <string name="new_hospital">New Hospital</string>
     <string name="new_pin">New Pin</string>
+    <string name="doctor">Doctor</string>
+    <string name="hello">Hello</string>
+    <string name="spo2">SPO2</string>
+    <string name="patient_name">Patient Name</string>
 </resources>

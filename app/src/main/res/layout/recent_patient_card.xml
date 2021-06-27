@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:minWidth="130dp"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingVertical="15dp"
+    android:paddingHorizontal="20dp"
+    android:background="@drawable/patient_card_bg"
+    android:foreground="?android:selectableItemBackground"
+    android:layout_marginEnd="20dp"
+    android:clickable="true"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/spo2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:text="@string/spo2"
+        android:fontFamily="@font/open_sans"
+        />
+
+    <TextView
+        android:id="@+id/spo2Amt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/spo2"
+        app:layout_constraintStart_toStartOf="parent"
+        android:text="98"
+        android:textSize="40sp"
+        android:fontFamily="@font/open_sans_extrabold"
+        android:textColor="@color/accentFaded"
+        />
+
+    <TextView
+        android:id="@+id/patientName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/spo2Amt"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        android:text="@string/patient_name"
+        android:fontFamily="@font/open_sans"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:id="@+id/patientBed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/patientName"
+        app:layout_constraintStart_toStartOf="parent"
+        android:text="BED123"
+        android:fontFamily="@font/open_sans"
+        android:textSize="12sp"
+        android:layout_marginTop="5dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
