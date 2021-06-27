@@ -15,4 +15,5 @@
     <string name="hello">Hello</string>
     <string name="spo2">SPO2</string>
     <string name="patient_name">Patient Name</string>
+    <string name="search">Search</string>
 </resources>
